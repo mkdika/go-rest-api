@@ -1,0 +1,9 @@
+.git/
+
+*.log
+*.bak
+*.tmp
+*.test
+*.out
+*.bin
+*.exe
