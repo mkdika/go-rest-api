@@ -1,5 +1,13 @@
-.git/
+# Mac OS X files
+.DS_Store
 
+#IDE Files
+.vscode/
+
+#go files
+vendor/
+
+# specific extensions
 *.log
 *.bak
 *.tmp
@@ -7,3 +15,7 @@
 *.out
 *.bin
 *.exe
+*.exe~
+*.dll
+*.so
+*.dylib
